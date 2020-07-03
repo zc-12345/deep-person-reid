@@ -1,3 +1,5 @@
+# 主要是deep-person-reid/torchreid/models/的osnet.py ,osnet应该是一种轻量级的reid网络
+
 Torchreid
 ===========
 Torchreid is a library for deep-learning person re-identification, written in `PyTorch <https://pytorch.org/>`_.
